@@ -1,0 +1,40 @@
+body{
+    
+    background-color: black;
+    outline-color: brown;
+    outline-width: 1cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+h1{
+    text-align: center;
+    color: white;  
+}
+.why{
+  margin-right:8cm;
+}
+
+.imagewhy {
+    height: 7cm;
+    width: 10cm;
+    border: solid 5px brown;
+    
+}
+p{
+    color: white;
+    size: bold;
+    margin-top: 1cm; 
+}
+q{
+    color: white;
+    margin-left: 7cm;
+    margin-bottom: 5cm;
+    font-size: 2cm;
+}
+a{
+    background-color: #e3802b;
+    font-size: 15px;
+    color: brown;
+    border:solid 3px #a52a2a;
+    
+}
